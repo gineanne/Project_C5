@@ -5,8 +5,6 @@ public class First_Class {
 		System.out.println("Sample!");
 		System.out.println("Sample!");
 		System.out.println("Sample!");
-		System.out.println("Sample!");
-		System.out.println("Sample!");
-		System.out.println("Sample!");
+		System.out.println("Sample!!");
 	}
 }
